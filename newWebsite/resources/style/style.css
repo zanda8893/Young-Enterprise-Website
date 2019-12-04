@@ -1,0 +1,12 @@
+.images{
+  background-image:url("resources\images\ye-logo.jpeg");
+  background-position: center;
+  height: 300px;
+  width: 400PX;
+}
+#nav{
+  color:orange;
+}
+h1{
+  color:orange;
+}
