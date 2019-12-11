@@ -9,13 +9,7 @@
     margin-left: 12.5%;
     margin-right: 12.5%;
 }
-!img{
-  height: 100px;
-  width: 100px;
-}
 #left {
-    border-style: solid;
-    border-color: red;
     text-align: center;
     width: 50%;
     height: 400px;
@@ -27,8 +21,6 @@
 }
 
 #right {
-    border-style: solid;
-    border-color: blue;
     text-align: center;
     width: 50%;
     height: 400px;
